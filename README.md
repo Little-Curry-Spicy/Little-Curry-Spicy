@@ -16,11 +16,12 @@
 
 ## `whoami`
 
-I build reusable engineering assets for complex product flows, with a strong focus on Web3-facing products and admin-heavy systems.
+I am a frontend engineer who loves turning complex business flows into clean, reusable systems.  
+My core stack is `TypeScript` + `Vue` + `React` + `Flutter` + `Node.js`, with long-term focus on Web3 products and admin-heavy platforms. 🚀
 
-From permission models and data-dense tables to long-form workflows and cross-platform delivery, I care about making complexity understandable, maintainable, and scalable.
+I genuinely enjoy coding and have a bit of "code cleanliness obsession": clear naming, stable architecture, predictable state, and maintainable modules are non-negotiable for me. 🧼
 
-My approach is product-minded engineering: define clear boundaries, keep state predictable, and turn one-time feature work into reusable patterns that speed up future iterations.
+Outside work, I recharge through gaming 🎮 and reading 📚, and I often bring ideas from games/books back into product thinking and engineering decisions.
 
 <div align="left">
   <img src="https://img.shields.io/badge/Role-Frontend%20Engineer-141413?style=flat-square&labelColor=141413&color=C96442" alt="role" />
