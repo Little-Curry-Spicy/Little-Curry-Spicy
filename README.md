@@ -16,7 +16,11 @@
 
 ## `whoami`
 
-Building reusable engineering assets for complex product flows.
+I build reusable engineering assets for complex product flows, with a strong focus on Web3-facing products and admin-heavy systems.
+
+From permission models and data-dense tables to long-form workflows and cross-platform delivery, I care about making complexity understandable, maintainable, and scalable.
+
+My approach is product-minded engineering: define clear boundaries, keep state predictable, and turn one-time feature work into reusable patterns that speed up future iterations.
 
 <div align="left">
   <img src="https://img.shields.io/badge/Role-Frontend%20Engineer-141413?style=flat-square&labelColor=141413&color=C96442" alt="role" />
@@ -30,15 +34,11 @@ Building reusable engineering assets for complex product flows.
   <img src="https://skillicons.dev/icons?i=ts,vue,react,vite,tailwind,nodejs,nestjs,flutter,pinia,postgres,docker,git,github,vscode&perline=7" alt="tech-stack-icons" />
 </div>
 
-## Quote & Now Playing
+## Quote
 
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true" alt="dev-quote" />
-
-<br />
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gj4yxywneoqccx2gjabl7ch3hy&cover_image=true&theme=default&show_offline=false&background_color=30302E&interchange=true&bar_color=C96442&bar_color_cover=false" alt="spotify-now-playing" />
 
 </div>
 
@@ -119,14 +119,3 @@ Building reusable engineering assets for complex product flows.
   </picture>
 </div>
 
-## Connect
-
-<div align="center">
-  <a href="https://github.com/Little-Curry-Spicy">
-    <img src="https://img.shields.io/badge/GitHub-Little--Curry--Spicy-141413?style=for-the-badge&logo=github&logoColor=FAF9F5&labelColor=141413&color=C96442" alt="github-badge" />
-  </a>
-</div>
-
-<div align="center">
-  <sub>Quiet aesthetics. Serious engineering. Long-term systems.</sub>
-</div>
