@@ -1,0 +1,39 @@
+# 每日生成 Contribution Snake（SVG / Dark SVG / GIF），推送到本仓库 dist/
+# README 引用 raw 地址即可显示动画。首次需：Actions → 选中本 workflow → Run workflow
+name: Generate contribution snake
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.gif?color_snake=C96442&color_dots=#F5F4ED,#E8E6DC,#5E5D59,#30302E,#141413
+
+      - name: Commit snake assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist/
+          if git diff --staged --quiet; then
+            echo "No changes."
+          else
+            git commit -m "chore: update contribution snake [skip ci]"
+            git push
+          fi

@@ -1,101 +1,155 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Little-Curry-Spicy&fontSize=44&fontAlignY=36&color=0:141413,35:30302E,70:C96442,100:F5F4ED&fontColor=FAF9F5&animation=twinkling" alt="header" />
+</div>
 
-# Little-Curry-Spicy
+<div align="center">
 
-**Frontend Engineer · Web3 Builder · Hangzhou**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=900&center=true&vCenter=true&width=900&lines=Frontend+Engineer+for+Web3+Products;Architecture+%7C+Scalability+%7C+Product+Sense;Building+Reusable+Systems%2C+Not+One-off+Pages)](https://github.com/Little-Curry-Spicy)
 
-`TypeScript` · `React` · `Vue` · `Flutter` · UX & Performance
-
-<sub>Minimal README profile · shadcn-adjacent · monochrome</sub>
-
-<br />
-
-[![Profile](https://img.shields.io/badge/GitHub-Little--Curry--Spicy-000000?style=flat-square&logo=github&labelColor=000000&color=ffffff)](https://github.com/Little-Curry-Spicy)
-[![Views](https://komarev.com/ghpvc/?username=Little-Curry-Spicy&style=flat-square&color=000000&label=views)](https://github.com/Little-Curry-Spicy)
+[![Profile Views](https://komarev.com/ghpvc/?username=Little-Curry-Spicy&style=for-the-badge&label=PROFILE+VIEWS&color=C96442)](https://github.com/Little-Curry-Spicy)
+[![Followers](https://img.shields.io/github/followers/Little-Curry-Spicy?style=for-the-badge&label=FOLLOWERS&color=30302E)](https://github.com/Little-Curry-Spicy?tab=followers)
+[![Stars](https://img.shields.io/github/stars/Little-Curry-Spicy?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=TOTAL+STARS&color=141413)](https://github.com/Little-Curry-Spicy?tab=repositories)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,C96442,30302E,141413&height=3&section=footer&reversal=false&textBg=false&fontColor=FAF9F5&animation=blink" alt="cyber-divider" width="100%" />
 
-## Now
+## `whoami`
 
-Building **Web3-facing products** with solid **frontend engineering**: clear architecture, tasteful UX, and performance that holds up in real traffic.
+```ts
+const littleCurrySpicy = {
+  role: "Frontend Engineer",
+  domain: ["Web3", "Admin Systems", "Cross-platform Product"],
+  core: ["TypeScript", "Vue", "React", "Flutter", "Node.js"],
+  principle: "Turn complex flows into maintainable engineering assets",
+};
+```
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=C96442&height=36&text=TECH%20ARSENAL&fontSize=22&fontColor=FAF9F5&animation=twinkling&stroke=30302E&strokeWidth=1" alt="section-tech" width="100%" />
 
-## Selected work · cards
+## Tech Arsenal
 
-> ### XClear-admin  
-> <sub>Admin · Dashboard · Operations</sub>  
->  
-> **Stack:** `Vue` `TypeScript`  
-> **About:** 后台管理系统实践：复杂表单/权限/表格场景下的前端工程化与可维护结构。  
->  
-> **Links:** [**Repository**](https://github.com/Little-Curry-Spicy/XClear-admin)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,vue,react,vite,tailwind,nodejs,nestjs,flutter,pinia,postgres,docker,git,github,vscode&perline=7" alt="tech-stack-icons" />
+</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,141413,C96442,30302E&height=3&section=footer&animation=twinkling" alt="cyber-divider" width="100%" />
 
-> ### movie-nest  
-> <sub>API · Services · Modularity</sub>  
->  
-> **Stack:** `NestJS` `TypeScript`  
-> **About:** 后端分层与模块化练习，偏向规模化接口设计与类型安全。  
->  
-> **Links:** [**Repository**](https://github.com/Little-Curry-Spicy/movie-nest)
+## Vibe · Quote · Now Playing
 
----
+<div align="center">
 
-> ### flutter-movie · MovieGo  
-> <sub>Mobile · Data-heavy UI</sub>  
->  
-> **Stack:** `Flutter` `Riverpod` `GoRouter` · TMDb API  
-> **About:** 集成第三方 API 的完整客户端：列表/详情、状态管理、路由与组件化 UI。  
->  
-> **Links:** [**Repository**](https://github.com/Little-Curry-Spicy/flutter-movie)
+<!-- Dev Quote：随机开发者语录音，可换 theme=radical / merko / catppuccin 等 -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="dev-quote" />
 
----
+<br />
 
-> ### OTC-Flutter  
-> <sub>Fintech UX · Multi-platform</sub>  
->  
-> **Stack:** `Flutter` `Dio`  
-> **About:** OTC 业务向 App：交易列表、发布广告、订单与资产等模块的工程落地。  
->  
-> **Links:** [**Repository**](https://github.com/Little-Curry-Spicy/OTC-Flutter)
+<!--
+  方案A（免部署，推荐先用）：
+  1) 打开 https://spotify-github-profile.kittinanx.com/
+  2) 用 Spotify 授权后，复制你的 uid
+  3) 把下面 YOUR_SPOTIFY_UID 替换为真实值
 
----
+  方案B（最稳定）：
+  自己部署 Spotify 卡片服务到 Vercel/Cloudflare，避免公共服务暂停。
+-->
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gj4yxywneoqccx2gjabl7ch3hy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=141413&interchange=true&bar_color=C96442&bar_color_cover=false" alt="spotify-now-playing" />
 
-> ### ai-demo  
-> <sub>LLM · Tooling · Experiments</sub>  
->  
-> **Stack:** `TypeScript` · AI / Agents（随仓库演进）  
-> **About:** AI 应用与接入方式的练习场：从 demo 到可复用脚手架。  
->  
-> **Links:** [**Repository**](https://github.com/Little-Curry-Spicy/ai-demo)
+<sub>你看到的 “This deployment is temporarily paused” 是公共实例被暂停。已切到备用服务；如果还不稳定，我可以下一步帮你改成“自部署版本”（长期可用）。</sub>
 
----
+</div>
 
-## Lab notes
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,30302E,F5F4ED,C96442&height=3&section=footer&animation=blink" alt="cyber-divider" width="100%" />
 
-- **Engineering:** composable UI, predictable state, boring code that ships  
-- **Product:** fewer screens, clearer flows, faster feedback loops  
-- **Web3:** safety UX + transparency beats “cool interactions”
+## Engineering DNA
 
----
+- **Architecture First:** 明确边界、职责分层、可持续演进
+- **Type Safety as Strategy:** 用类型系统减少线上不确定性
+- **Reusable by Default:** 组件、hooks、模板、规范先沉淀后复制
+- **Product-minded Engineering:** 在业务目标和工程质量中做最优解
 
-## Stats · monochrome
+<img src="https://capsule-render.vercel.app/api?type=slice&height=40&color=C96442&fontAlign=50&section=footer&text=SIGNATURE%20PROJECTS&fontSize=22&fontColor=FAF9F5&animation=blinking&stroke=141413&strokeWidth=0.5" alt="section-projects" width="100%" />
 
-<p align="center">
-  <img height="160" alt="GitHub stats"
-       src="https://github-readme-stats.vercel.app/api?username=Little-Curry-Spicy&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=111111&icon_color=000000&border_color=e5e5e5&ring_color=000000" />
-  <img height="160" alt="Top languages"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Little-Curry-Spicy&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=111111&border_color=e5e5e5" />
-</p>
+## Signature Projects
 
----
+### `XClear-admin`
+- **Stack:** `Vue` `TypeScript`
+- **Impact:** 面向复杂后台场景（表单/权限/表格）沉淀可维护前端架构
+- **Repo:** [github.com/Little-Curry-Spicy/XClear-admin](https://github.com/Little-Curry-Spicy/XClear-admin)
+
+### `movie-nest`
+- **Stack:** `NestJS` `TypeScript`
+- **Impact:** 面向规模化 API 的模块化后端实践，强调类型安全与测试友好
+- **Repo:** [github.com/Little-Curry-Spicy/movie-nest](https://github.com/Little-Curry-Spicy/movie-nest)
+
+### `flutter-movie` / `MovieGo`
+- **Stack:** `Flutter` `Riverpod` `GoRouter`
+- **Impact:** 从数据层到 UI 层的完整移动端工程化落地
+- **Repo:** [github.com/Little-Curry-Spicy/flutter-movie](https://github.com/Little-Curry-Spicy/flutter-movie)
+
+### `OTC-Flutter`
+- **Stack:** `Flutter` `Dio`
+- **Impact:** 交易业务 App 实战，覆盖广告、订单、资产等核心流程
+- **Repo:** [github.com/Little-Curry-Spicy/OTC-Flutter](https://github.com/Little-Curry-Spicy/OTC-Flutter)
+
+### `ai-demo`
+- **Stack:** `TypeScript` `AI/Agents`
+- **Impact:** AI 能力接入从 demo 到可复用方案的演进实验场
+- **Repo:** [github.com/Little-Curry-Spicy/ai-demo](https://github.com/Little-Curry-Spicy/ai-demo)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,141413,F5F4ED,C96442&height=3&section=footer&animation=twinkling" alt="cyber-divider" width="100%" />
+
+## Live Metrics
+
+<div align="center">
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Little-Curry-Spicy&show_icons=true&hide_border=true&bg_color=F5F4ED&title_color=141413&text_color=4D4C48&icon_color=C96442&ring_color=C96442" />
+  <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Little-Curry-Spicy&layout=compact&hide_border=true&bg_color=F5F4ED&title_color=141413&text_color=4D4C48" />
+</div>
+
+<div align="center">
+  <img height="165" alt="GitHub streak" src="https://streak-stats.demolab.com?user=Little-Curry-Spicy&hide_border=true&background=F5F4ED&ring=C96442&fire=C96442&currStreakLabel=141413&sideLabels=4D4C48&currStreakNum=141413&sideNums=141413&dates=87867F" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Little-Curry-Spicy&theme=dracula&no-bg=true&no-frame=true&column=7&margin-w=8&margin-h=8" alt="github-trophies" />
+</div>
+
+### Contribution graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Little-Curry-Spicy&theme=github-compact&hide_border=true&color=C96442&line=30302E&point=C96442&area_color=F5F4ED" alt="activity-graph" />
+</div>
+
+### Contribution snake
+
+<div align="center">
+  <!-- 需在本仓库启用 Actions 并运行一次 Generate contribution snake，生成 dist/ 下资源后下图才会正常显示 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Little-Curry-Spicy/Little-Curry-Spicy/main/dist/github-snake-dark.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Little-Curry-Spicy/Little-Curry-Spicy/main/dist/github-snake.gif" />
+  </picture>
+</div>
+
+<sub>Snake：将本仓库推送到 GitHub 后，打开 <strong>Actions → Generate contribution snake → Run workflow</strong>，等待提交完成即可。</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,C96442,141413,30302E&height=3&section=footer&animation=blink" alt="cyber-divider" width="100%" />
+
+## Currently Building
+
+- `Vue3 + TypeScript` 高可维护后台基础设施
+- Web3 场景的可信交互与安全体验细节
+- AI 能力标准化接入与业务工作流集成
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:141413,50:C96442,100:30302E&section=footer&fontSize=20&fontColor=FAF9F5&text=CONNECT&animation=twinkling" alt="footer-wave" />
 
 ## Connect
 
-- **GitHub:** [Little-Curry-Spicy](https://github.com/Little-Curry-Spicy)
+<div align="center">
+  <a href="https://github.com/Little-Curry-Spicy">
+    <img src="https://img.shields.io/badge/GitHub-Little--Curry--Spicy-141413?style=for-the-badge&logo=github&logoColor=FAF9F5&labelColor=141413&color=C96442" alt="github-badge" />
+  </a>
+</div>
 
-<sub>Tip: Pinned repositories + “Featured” cards together read stronger than either alone.</sub>
+<div align="center">
+  <sub>Quiet aesthetics. Serious engineering. Long-term systems.</sub>
+</div>
