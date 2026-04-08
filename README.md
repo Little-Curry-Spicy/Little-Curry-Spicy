@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Little-Curry-Spicy&fontSize=44&fontAlignY=36&color=0:141413,35:30302E,70:C96442,100:F5F4ED&fontColor=FAF9F5&animation=twinkling" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Little-Curry-Spicy&fontSize=54&fontAlignY=42&color=0:141413,35:30302E,70:C96442,100:F5F4ED&fontColor=FAF9F5&animation=twinkling" alt="header" width="100%" style="display:block;" />
 </div>
 
 <div align="center">
@@ -16,14 +16,13 @@
 
 ## `whoami`
 
-```ts
-const littleCurrySpicy = {
-  role: "Frontend Engineer",
-  domain: ["Web3", "Admin Systems", "Cross-platform Products"],
-  core: ["TypeScript", "Vue", "React", "Flutter", "Node.js"],
-  principle: "Turn complex flows into reusable engineering assets",
-};
-```
+Building reusable engineering assets for complex product flows.
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Role-Frontend%20Engineer-141413?style=flat-square&labelColor=141413&color=C96442" alt="role" />
+  <img src="https://img.shields.io/badge/Focus-Web3%20%2F%20Admin%20%2F%20Cross--platform-30302E?style=flat-square&labelColor=30302E&color=F5F4ED" alt="focus" />
+  <img src="https://img.shields.io/badge/Core-TypeScript%20%7C%20Vue%20%7C%20React%20%7C%20Flutter-141413?style=flat-square&labelColor=141413&color=C96442" alt="core" />
+</div>
 
 ## Tech Arsenal
 
@@ -39,26 +38,9 @@ const littleCurrySpicy = {
 
 <br />
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gj4yxywneoqccx2gjabl7ch3hy&cover_image=true&theme=default&show_offline=false&background_color=F5F4ED&interchange=true&bar_color=C96442&bar_color_cover=false" alt="spotify-now-playing" />
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gj4yxywneoqccx2gjabl7ch3hy&cover_image=true&theme=default&show_offline=false&background_color=30302E&interchange=true&bar_color=C96442&bar_color_cover=false" alt="spotify-now-playing" />
 
 </div>
-
----
-
-## Engineering DNA
-
-- **Architecture First:** 明确边界、职责分层、可持续演进
-- **Type Safety as Strategy:** 用类型系统减少线上不确定性
-- **Reusable by Default:** 组件、hooks、模板、规范先沉淀后复制
-- **Product-minded Engineering:** 在业务目标和工程质量中做最优解
-
----
-
-## Currently Building
-
-- `Vue3 + TypeScript` 高可维护后台基础设施
-- Web3 场景的可信交互与安全体验细节
-- AI 能力标准化接入与业务工作流集成
 
 ---
 
@@ -102,10 +84,18 @@ const littleCurrySpicy = {
   <img height="165" alt="GitHub streak" src="https://streak-stats.demolab.com?user=Little-Curry-Spicy&hide_border=true&background=F5F4ED&ring=C96442&fire=C96442&currStreakLabel=141413&sideLabels=4D4C48&currStreakNum=141413&sideNums=141413&dates=87867F" />
 </div>
 
-### Trophy
+### Highlights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Little-Curry-Spicy&theme=flat&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" alt="github-trophies" />
+  <a href="https://github.com/Little-Curry-Spicy?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-Explore-141413?style=for-the-badge&labelColor=141413&color=C96442" alt="repos" />
+  </a>
+  <a href="https://github.com/Little-Curry-Spicy?tab=stars">
+    <img src="https://img.shields.io/badge/Stars-Collections-30302E?style=for-the-badge&labelColor=30302E&color=F5F4ED" alt="stars" />
+  </a>
+  <a href="https://github.com/Little-Curry-Spicy?tab=followers">
+    <img src="https://img.shields.io/badge/Followers-Network-141413?style=for-the-badge&labelColor=141413&color=C96442" alt="followers" />
+  </a>
 </div>
 
 ### Contribution graph
